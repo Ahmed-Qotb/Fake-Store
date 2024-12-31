@@ -26,5 +26,7 @@ npm run dev
 ```
 ## 🛠️ Built With
 Next.js: A React framework for server-rendered and static web applications.
+
 Fake Store API: A free RESTful API for testing and prototyping e-commerce projects.
+
 React Icons: A library of popular icons for React applications.
