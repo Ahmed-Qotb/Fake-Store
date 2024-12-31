@@ -11,7 +11,7 @@ git clone https://github.com/Ahmed-Qotb/Fake-Store
 ```
 2. Navigate to the Main Directory
 ```bash
-cd fake-products
+cd Fake-Store
 
 ```
 3. Install Dependencies
