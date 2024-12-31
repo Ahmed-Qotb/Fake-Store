@@ -1,4 +1,4 @@
-Fake Products
+Fake Store
 This is a dynamic e-commerce website built with Next.js using the Fake Store API for product data.
 ## Installation
 
